@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: May 25th, 2018
+Last updated: December 1, 2019
 
 ## 1. General
 
@@ -29,11 +29,11 @@ Policy](https://whereby.com/information/tos/privacy-policy/)
 you don’t agree to the Terms, you can’t use Whereby.
 
 We may change these Terms at any time. We keep a historical record of
-all changes to our Terms on GitHub. If a change is material, we’ll let
+all changes to our Terms on [GitHub](https://github.com/whereby/policy). If a change is material, we’ll let
 you know before it takes effect provided that we have your correct
 email address. By using Whereby on or after that effective date, you
-agree to the new Terms. If you don’t agree to them, you should delete
-your account before they take effect, otherwise your use of the
+agree to the new Terms. If you don’t agree to them, you should [delete your account](https://whereby.helpscoutdocs.com/article/349-manage-your-account-profile-and-data)
+ before they take effect, otherwise your use of the
 Service and Content will be subject to the new Terms. For paid
 versions of the Services or Content that you have already purchased,
 we will notify you at least 30 days prior to any material changes,
@@ -43,28 +43,28 @@ including price changes.
 
 Whereby is only for people **16 years old and over**. By using
 Whereby, you affirm that you are over 16. If we learn that someone
-under 16 is using Whereby, we’ll terminate their account.
+under 16 is using Whereby, we’ll terminate their account. For use in educational settings or use of our Meetings API in your own service, [contact us](mailto:sales@whereby.com).
 
 ## 3. How you can use the Service
 
-Whereby is for legitimate individual use only (personal or business
-communication). Your use of Whereby requires that you have hardware,
+The Free version of Whereby is for legitimate individual use only (personal or business
+communication). Commercial use of Whereby as part of your own business offering requires one of our paid plans or the Meetings API. Your use of Whereby requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
-[our FAQ](https://support.whereby.com/article/318-supported-devices).
+[our Support Center](https://support.whereby.com).
 If the recommended requirements are not met, you may potentially still
 use the Service, but normally with a lower quality or
 performance. Such reduced quality or performance will not give you the
 right to claim any compensation from Whereby.
 
-To use certain parts of the Whereby service, you will need to create
+To use certain parts of the Service, you will need to create
 a personal Whereby account. You may register an account by following
 the instructions on the Website or other instructions prompted to
 you. You are responsible for providing and maintaining accurate and
 updated personal information, and for safeguarding your account
 information. You may not select or use an identity of another person
 with the intent to impersonate that person. You must use a valid
-e-mail address, and Whereby reserves the right to verify this at any
+email address, and Whereby reserves the right to verify this at any
 time. Whereby will not be liable for any loss or damage arising from
 your failure to comply with the above requirements.
 
@@ -83,11 +83,11 @@ lawfulness of any content displayed, shared, uploaded or otherwise
 made available by you in the Service (“the User Content”). User
 Content includes room names, and you are responsible for ensuring room
 names does not include Prohibited User Content (as listed below). Your
-room names are used to construct the URLs identifying your rooms, and
+room names are used to construct the links identifying your rooms, and
 guests you invite and other third parties can (request to) enter your
-rooms based on these URLs. As these guests do not need to authenticate
-to Whereby in order to do this, please be aware that room names must
-be considered public information. Do not include information that you
+rooms based on these links. As these guests do not need to authenticate
+to Whereby in order to do this, please be aware that **room names must
+be considered public information**. Do not include information that you
 do not want to make public in room names.
 
 ### Restrictions on Content and Use of the Service
@@ -167,38 +167,42 @@ shall not export or re-export the Service or parts of it in violation
 of such laws or regulations.
 
 ### Charging for Use of the Services
-The Service is offered both as a free version and a paid PRO
-version. You can choose to upgrade your account, which will give you
-additional PRO features in the rooms you own. The PRO features will
-then be available to all users visiting the room, even if they’re
+The Service is available as a Free plan for personal use, a paid Pro
+plan for professional use by individuals, and a Business plan for professional use by teams or organizations. We also offer a developer API ("Meetings API") as an extension of the Business plan, for customers who want to integrate Whereby in their own products or tools. 
+
+As a Free user, you can at any time choose to upgrade your account, which will give you
+additional Pro features in the rooms you own. The Pro features will
+then be available to all guests visiting the room, even if they’re
 anonymous. We reserve the right to change the features included in our
-plans, the price of the PRO plan and the structure of the plan at any
-time. You will find an updated overview of the content of the plan on
-our [Pricing page](https://whereby.com/information/pricing). We will
+plans, the price of the paid plan and the structure of the plan at any
+time. 
+
+The Business plan requires creation of a custom subdomain (*company.whereby.com*) and allows you as the account creator to invite other users to create a profile in the account. By signing up for a Business account, you confirm that you are a legal representative, or are acting on behalf of such person, of the company name used in the account subdomain. You may not set up an account that impersonates or infringes on other’s trademarks. If your content or actions in the service or usage of our API violate any laws, including but not limited to spam, phishing, copyright infringement, defamation, computer attacks or fraud, we will terminate your service as soon as we find out.
+
+You will find an updated overview of the content of the plans on
+our [Pricing page](https://whereby.com/information/pricing). Details around use and billing of the Meetings API will be outlined in the Order Form you as a customer commit to. We will
 notify all paying users of material changes to the content, price and
 terms of the plan.
 
 All payments shall be made in advance or otherwise as laid out on the
 Pricing page. If your payment is not successful, your room will be
-downgraded to the FREE plan with access to PRO features removed. If
-you have created more than 1 room during your PRO subscription, you
-will need to select one room to keep using with Whereby FREE.
-Upgrading to PRO will start a recurring subscription, and you will be
+downgraded to the Free plan with access to Pro features removed. If
+you have created more than one room during your Pro subscription, you
+will need to select one room to keep using with the Whereby Free plan.
+Upgrading to Pro or Business will start a recurring subscription, and you will be
 billed every month in advance, on the day of month the subscription
 was first created. You can cancel the subscription at any time in the
-billing page, and you will then have access to PRO features for the
+billing page, and you will then have access to Pro features for the
 remainder of the month you have paid for. When that month ends, your
-room will automatically be downgraded to the FREE plan. Should you
-choose to re-activate your subscription during this period after
-cancellation, you will start a new subscription from the end date of
-the previous subscription, and will continue to have PRO features.
+account will automatically be downgraded to the Free plan. Should you
+choose to reactivate your subscription before the account is downgraded, you will continue to have Pro features uninterrupted. In the case where payment fails for Pro and Business customers, you will be notified by email and inside the service. If repeated attempts to collect the payment fails, we may disable or block access to the account until payment of all invoices are settled. If payment is not received within a reasonable time, as outlined in our support center, the account will be downgraded to Free (for Pro) or deleted (for Business).
 
 Payment processing services for Whereby, including the processing
 and storing of credit card data, are provided by Stripe Payments
 Europe, Ltd. (“Stripe”) and are subject to the [Stripe Services
 Agreement — Norway](https://stripe.com/no/legal) (“Stripe Services
-Agreement”). By agreeing to these terms or continuing to operate as an
-Whereby PRO customer, you agree to be bound by the Stripe Services
+Agreement”). By agreeing to these terms and continuing to operate as a
+customer of a paid Whereby plan, you agree to be bound by the Stripe Services
 Agreement, as the same may be modified by Stripe from time to time. As
 a condition of Whereby enabling payment processing services through
 Stripe, you agree to provide Whereby accurate and complete
@@ -210,12 +214,12 @@ services provided by Stripe.
 ## 5. Privacy and Personal Data
 
 When delivering the Service, Whereby will collect and process
-personal data about you and your use of the Service. The Privacy
-Policy is available on [this
-page](https://whereby.com/information/tos/privacy-policy).  By using our
+personal data about you and your use of the Service. By using the
 Service, you agree that Whereby can use your personal data in
 accordance with our Privacy Policy and in accordance with the consents
-you have given us.
+you have given us. The Privacy
+Policy is available on [this
+page](https://whereby.com/information/tos/privacy-policy). 
 
 Whereby will comply with Norwegian and EU privacy regulations.
 
@@ -223,10 +227,10 @@ Whereby will comply with Norwegian and EU privacy regulations.
 
 Whereby may need to send you information about the Service, such as
 important service announcements and administrative messages, by SMS,
-e-mail or other means of electronic communication, by posting a notice
+email or other means of electronic communication, by posting a notice
 on the Website, or through any other relevant communication channels.
 
-Whereby may offer to send you promotional information by SMS, e-mail
+Whereby may offer to send you promotional information by SMS, email
 or other means of electronic communication. You may choose to opt in
 to receiving such communication and can manage your consents in the
 Settings page on https://whereby.com/user/profile.
@@ -279,15 +283,15 @@ are entitled to submit such User Content and to grant us such license.
 ## 9. Termination
 
 You may stop using our Service, by deleting your account in Settings
-on your personal account on the website. As a subscriber of the paid
-PRO version, you may terminate your subscription at any time, and will
-have access to the Service for the remaining billing (pre-paid)
+on your personal account on the website. As a subscriber of a paid
+plans, you may terminate your subscription at any time, and will
+have access to the Service for the remaining (pre-paid) billing 
 period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
-you. Users of the paid PRO versions may be entitled to refunds and to
-the extent this is described on our [FAQ page](https://support.whereby.com).
-No users are entitled to refunds upon termination due to breach of
-these Terms.
+you. Users of the paid plans may be entitled to refunds and to
+the extent this is described on our [Support Center](https://support.whereby.com). No users are entitled to refunds upon termination due to breach of
+these Terms. What we consider Fair Use is described in our Support Center. We reserve the right to terminate accounts with usage that exceed the [Fair Use Policy](https://whereby.helpscoutdocs.com/article/353-policies). 
+
 
 ## 10. Miscellaneous
 
@@ -351,8 +355,6 @@ shall be subject to the jurisdiction of the Norwegian courts with the
 district court of Oslo, Norway as the legal venue.
 
 ***
-
-The Terms were last updated May 25th, 2018.
 
 More questions?
 
