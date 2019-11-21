@@ -284,7 +284,7 @@ are entitled to submit such User Content and to grant us such license.
 
 You may stop using our Service, by deleting your account in Settings
 on your personal account on the website. As a subscriber of a paid
-plans, you may terminate your subscription at any time, and will
+plan, you may terminate your subscription at any time, and will
 have access to the Service for the remaining (pre-paid) billing 
 period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
