@@ -235,7 +235,7 @@ purposes, and on the legal bases, set out in this policy.
 In the case where we are involved in a merger, acquisition,
 bankruptcy, reorganization or sale of assets such that your
 information would be transferred or become subject to a different
-privacy policy, we will notify you.
+privacy policy, we will notify you in advance and give you the option to delete your data before the transfer.
 
 ## International transfers of your personal data
 
