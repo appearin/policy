@@ -4,7 +4,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: May 25th, 2018
+Effective date: February 14th, 2020
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -170,6 +170,21 @@ the same purpose and legal ground:
 > the proper administration of our website and business and
 > communications with users.
 
+* **Integrations with external services** Participants in a meeting
+may choose to open one of the integrations we provide
+(Google Drive, YouTube, Trello). Metadada like title, thumbnail,
+dates and share permissions may be fetched and displayed in the web
+page to enrich the user experience. Access to restricted metadata
+is handled by the services themselves and requires explicit consent
+given by the facing user. We may store non-personal/non-restricted information 
+(eg. id and access date) in a local browser storage to display
+lists of recent opened integrations. Otherwise we rely reading
+restricted data from the storage the services themselves provide. 
+> Ids and access dates are being processed when listing recently
+> opened integrations.
+> Since this data is only stored locally in the browser, they
+> may at any time be deleted by clearing local browser history.
+
 ## How we process media (audio/video)
 
 We will never store any media sent between participants in a
@@ -292,7 +307,7 @@ interests or the vital interests of another natural person.
 
 We can change these Terms at any time. We keep a historical record of
 all changes to our Terms on
-[GitHub](https://github.com/appearin/policy). If a change is material,
+[GitHub](https://github.com/whereby/policy). If a change is material,
 we’ll let you know before it takes effect. By using Whereby on or
 after that effective date, you agree to the new Terms. If you don’t
 agree to them, you should delete your account before they take effect,
