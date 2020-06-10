@@ -1,10 +1,8 @@
 ---
 title: Terms of Service
 slug: /information/tos/
+date: March 18, 2020
 ---
-# Terms of Service
-
-Last updated: March 18, 2020
 
 ## 1. General
 

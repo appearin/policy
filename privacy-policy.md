@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 slug: /information/tos/privacy-policy/
+date:
 ---
-# Privacy Policy
 
 Effective date: March 15th, 2020
 

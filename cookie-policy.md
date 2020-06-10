@@ -1,10 +1,8 @@
 ---
 title: Cookie Policy
 slug: /information/tos/cookie-policy/
+date: May 25th, 2018
 ---
-# Cookie Policy
-
-Last updated: May 25th, 2018
 
 ## General
 

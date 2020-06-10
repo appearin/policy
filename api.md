@@ -1,11 +1,8 @@
 ---
 title: Terms of Service for Whereby Meetings API
 slug: /information/tos/api/
+date: April 28, 2020
 ---
-
-# Terms of Service for Whereby Meetings API
-
-Last updated: April 28, 2020
 
 ## 1. Agreement
 
