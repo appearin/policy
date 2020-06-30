@@ -6,7 +6,7 @@ slug: /information/tos/
 
 Looking for the API Terms of Service? [View Whereby Meetings API Terms of Service](/information/tos/api/)
 
-Last updated: June 25, 2020
+Last updated: July 1st, 2020
 
 ## 1. General
 
