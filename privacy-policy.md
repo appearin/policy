@@ -366,7 +366,7 @@ authority.
 
 ## Data protection officer
 
-Our data protection officer's contact details are: Arne Gleditsch,
+Our data protection officer's contact details are: Jonas Lybech Jensen,
 privacy@whereby.com
 
 To learn more, visit the
