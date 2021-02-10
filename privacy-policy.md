@@ -7,7 +7,7 @@ slug: /information/tos/privacy-policy/
 
 This policy is effective for all users who join Whereby after 11
 February, 2021. For existing users, the policy comes into effect
-from 1 March, 2021.
+from 18 February, 2021.
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -153,18 +153,21 @@ the same purpose and legal ground:
 > our customer support staff give each other feedback and learn, which
 > constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
 
-* **Product & Marketing communication.** We may process information
-  that you provide to us for the purpose of contacting you by email, 
-  by phone or through professional social media channels. You can 
-  change permissions by going to [Privacy
-settings](https://whereby.com/user/privacy).
-  We may also obtain information from Zoominfo about your job title to 
-  determine if we should contact you to discuss your employer's account 
-  with Whereby. You can exercise your right to see what data Zoominfo
-  has collected about you by going to https://www.zoominfo.com/update/access
-> The legal basis for processing personal data for the purposes providing
+* **Product & Marketing communication.** We may obtain professional 
+  information about you if you have a linkedIn profile. We use this
+  information to assess if we should contact you regarding your company's
+  Whereby account. If you are an appropriate point of contact for your 
+  company, we may seek additional contact information through Zoominfo. 
+  Zoominfo may provide access to your contact information if you have made
+  it publically available. Both Zoominfo and LinkedIn allows you to know 
+  what data they have collected about you; you can find it 
+  [here](https://www.zoominfo.com/update/access) for Zoominfo
+  and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn.
+  You can always change our permissions to contact you by changing your
+  [Privacy settings](https://whereby.com/user/privacy).
+> The legal basis for processing personal data for the purposes of providing
 > you with product and marketing communication is our legitimate 
-> interest, cf. GDPR art.6 (1) item f.
+> interest, cf. GDPR art.6 (1) item f. 
 
 * **Service and transactional notifications.** Sometimes we’ll send
   you emails about your account, service changes or new policies. You
