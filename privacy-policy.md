@@ -141,13 +141,15 @@ the same purpose and legal ground:
 > requests cf. GDPR art. 6 (1) item f.
 
 * **Product & Marketing communication.** We may process information
-  that you provide to us for the purpose of subscribing to our email
-  newsletters. You can opt in to emails such as digests, newsletters,
-  and activity notifications through your account’s “Settings >
-  Privacy > Consents” page.
-> The notification data may be processed for the purposes of sending
-> you relevant product information or newsletters. The legal basis for
-> this processing is your consent cf. GDPR art. 6 (1) item a.
+  that you provide to us for the purpose of contacting you by email, 
+  by phone or through professional social media channels. You can 
+  control your premissions by going to “Settings > Privacy > Permissions”.
+  We may also obtain information from Zoominfo about your job title to 
+  determine if we should contact you to discuss your employer's account 
+  with Whereby. You can exercise your right to see what data Zoominfo
+  has collected about you by going to https://www.zoominfo.com/update/access
+> The legal basis for processing personal data for the purposes of
+> direct marketing is our legitimate interest, cf. GDPR art.6 (1) item f.
 
 * **Service and transactional notifications.** Sometimes we’ll send
   you emails about your account, service changes or new policies. You
