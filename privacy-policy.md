@@ -5,7 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: June 25th, 2020
+Effective date: 11 February, 2021
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -42,9 +42,9 @@ and that the content is not violating other users’ privacy.
 We in Whereby are committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
 need additional features on top of the FREE version, and does not rely
-on widespread collection of general user data. We will only collect
-and process information that we need to deliver the service to you,
-and to continue to maintain and develop the service.
+on widespread collection of general user data. When you use our service,
+we will only collect and process information that we need to deliver the
+service to you, and to continue to maintain and develop the service.
 
 Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
@@ -60,7 +60,10 @@ the same purpose and legal ground:
   Whereby, will have to provide a valid email address or phone
   number. The user can also choose to enter a display name and/or add
   a profile picture that will be used to represent them in
-  conversations. If you as a user choose to sign up with an external authentication service, e.g. Google Sign-In, we will fetch and store email address, name and profile image URL from this service. 
+  conversations. If you as a user choose to sign up with an external
+  authentication service, e.g. Google Sign-In, we will fetch and store
+  email address, name and profile image URL from this service. 
+
 * **Room information.** To create a room in Whereby, you as a user
   will have to select a room name. This name will be publicly visible,
   and will be used by other users accessing meetings in that room. You
@@ -99,9 +102,8 @@ the same purpose and legal ground:
   usage data is our server software and our analytics tracking system.
   * **Product Analytics data.** Whereby logs activities by you and
     other users when the users interact with our websites or apps,
-    when a page or a room is visited or where there is a
-    conversation. We will never collect or record the content in
-    conversations.
+    when a page or a room is visited or where there is a conversation.
+    We will never record the content in conversations.
   * **Technical log data.** Like most digital services, our servers
     automatically collect information when Websites or Services are
     accessed or used and record it in log files. This log data may
@@ -122,23 +124,29 @@ the same purpose and legal ground:
     determine approximate location. Whereby may also collect
     location information from devices in accordance with the consent
     process provided by your device.
-> The legal basis for this processing is our legitimate interests
+> The legal basis for this processing is in part our legitimate interests
 > cf. GDPR art. 6 (1) item f, namely using this data for the purpose
 > of ensuring the proper administration of our website and business,
 > analyzing the use of the website and services, monitoring and
 > improving our website and services, improving the user experience,
-> preventing abuse, and assisting users with support inquiries. For
-> information about cookies and how to opt out of cookies, see our
+> detecting and correcting fault/errors, and preventing abuse. When necessary
+> to assist you with your support inquiries, we may also process the data on
+> the basis that it is necessary to performing the contract we entered into
+> with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b.
+> When we process the data for security purposes, we do so also on the basis 
+> of our legal obligation, cf. GDPR art. 6(1) item c, in particular our 
+> obligation to keep personal data secure. For information about cookies 
+> and how to opt out of cookies, see our
 > [Cookie Policy](https://whereby.com/information/tos/cookie-policy/).
 
 * **Customer Support Information.** We may process information that
   you send to us, should you choose to submit a ticket to our support
   email.  If you contact us, we may use your Account, Room,
   Transaction or Usage Information to respond.
-> Processing this information it is required for performing the
+> Processing this information is required for performing the
 > contract we entered into with you, at your request (our Terms of
-> Service), as well as our legitimate interest of handling your
-> requests cf. GDPR art. 6 (1) item f.
+> Service), cf. GDPR art. 6(1) item b, as well as our legitimate interest
+> of handling your requests cf. GDPR art. 6 (1) item f.
 
 * **Product & Marketing communication.** We may process information
   that you provide to us for the purpose of contacting you by email, 
@@ -272,7 +280,6 @@ cannot prevent the use (or misuse) of such personal data by
 others. For information about what types of content you as a user is
 responsible, see this
 [Terms of Service](https://whereby.com/information/tos/).
-
 
 We and our other group companies have offices and facilities in
 Norway, Sweden, United States. The hosting facilities for Account
