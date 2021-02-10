@@ -137,7 +137,9 @@ the same purpose and legal ground:
 > with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b.
 > When we process the data for security purposes, we do so also on the basis 
 > of our legal obligation, cf. GDPR art. 6(1) item c, in particular our 
-> obligation to keep personal data secure. For information about cookies 
+> obligation to keep personal data secure. If you consent, cf. GDPR art. 6 (1)
+> item a, to receiving tips on how to get more out of Whereby, we will 
+> process usage information to achieve this. For information about cookies 
 > and how to opt out of cookies, see our
 > [Cookie Policy](https://whereby.com/information/tos/cookie-policy/).
 
