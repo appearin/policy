@@ -5,11 +5,13 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: 11 February, 2021
+This policy is effective for all users who join Whereby after 11
+February, 2021. For existing users, the policy comes into effect
+from 1 March, 2021.
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
-Video Communication Services AS ("Whereby"/"we")
+Whereby AS ("Whereby"/"we")
 
 Gate 1 no. 101, 6700 Måløy, Norway
 
@@ -70,7 +72,7 @@ the same purpose and legal ground:
   as a user is responsible for the content you enter into a room name,
   and the content has to be compliant with our guidelines for
   Prohibited Content in Terms of Services.
-> The information may be used for the purposes of operating our
+> The information will be used for the purposes of operating our
 > Websites, providing our Services, ensuring the security of our
 > Website and Services, maintaining back-ups of our databases and
 > communicating with you. This is required to deliver the Services to
@@ -83,9 +85,9 @@ the same purpose and legal ground:
   processors) with billing details such as credit card information,
   billing email, banking information, location at the time of
   transaction and/or a billing address.
-> The transaction data may be processed for the purpose of supplying
+> The transaction data will be processed for the purpose of supplying
 > the purchased services and keeping proper records of those
-> transactions. This data may be used for the purpose of delivering
+> transactions. This data will be used for the purpose of delivering
 > the Services to you. Processing this information is required for
 > fulfilling the contract we entered into with you, at your request
 > (our Terms of Service) cf. GDPR art. 6 (1) item b. Additionally,
@@ -94,11 +96,11 @@ the same purpose and legal ground:
 
 * **Usage information.** When you as a user interact with the
   Services, we collect and process metadata to provide additional
-  context about the way the Service is being used. The usage data may
-  include your IP address, geographical location, browser type and
+  context about the way the Service is being used. The usage data
+  includes IP addresses, geographical location, browser type and
   version, operating system, referral source, length of visit, page
   views and website navigation paths, as well as information about the
-  timing, frequency and pattern of your service use. The source of the
+  timing, frequency and pattern of service usage. The source of the
   usage data is our server software and our analytics tracking system.
   * **Product Analytics data.** Whereby logs activities by you and
     other users when the users interact with our Websites or apps,
@@ -111,7 +113,7 @@ the same purpose and legal ground:
     page visited within the Services, browser type and settings, the
     date and time the Services were used, information about browser
     configuration and plugins, language preferences and cookie data.
-  * **Device information.** Whereby may collect and process
+  * **Device information.** Whereby will collect and process
     information about devices used to access the Services, including
     type of device, what operating system is used, device settings,
     application IDs, unique device identifiers and crash data. Whether
@@ -139,10 +141,10 @@ the same purpose and legal ground:
 > and how to opt out of cookies, see our
 > [Cookie Policy](https://whereby.com/information/tos/cookie-policy/).
 
-* **Customer Support Information.** We may process information that
+* **Customer Support Information.** We will process information that
   you send to us, should you choose to submit a ticket to our support
   email.  If you contact us, we may use your user account, room,
-  transaction or usage Information to respond.
+  transaction or usage Information to respond, depending on your needs.
 > Processing this information is required for performing the
 > contract we entered into with you, at your request (our Terms of
 > Service), cf. GDPR art. 6(1) item b, as well as our legitimate interest
@@ -154,7 +156,7 @@ the same purpose and legal ground:
 * **Product & Marketing communication.** We may process information
   that you provide to us for the purpose of contacting you by email, 
   by phone or through professional social media channels. You can 
-  control your premissions by going to [Privacy
+  control your permissions by going to [Privacy
 settings](https://whereby.com/user/privacy).
   We may also obtain information from Zoominfo about your job title to 
   determine if we should contact you to discuss your employer's account 
@@ -312,8 +314,10 @@ criteria:
 1. Account information, room information will be retained until you
    decide to delete your account or delete a room in Whereby.
 2. Information about you used for product & marketing communication
-   will be retained until you withdraw your consent or opt-out. You
-   can control your permissions 
+   will be retained until you withdraw your consent or opt-out, depending
+   on if the processing is based on consent or our legitimate interest. You
+   can control your permissions through [Privacy
+settings](https://whereby.com/user/privacy).
 3. The period of retention of usage information will be determined
    based on the need for historical data to determine statistical
    validity and relevance for product decisions and technical
