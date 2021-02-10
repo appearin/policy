@@ -156,7 +156,7 @@ the same purpose and legal ground:
 * **Product & Marketing communication.** We may process information
   that you provide to us for the purpose of contacting you by email, 
   by phone or through professional social media channels. You can 
-  control your permissions by going to [Privacy
+  change permissions by going to [Privacy
 settings](https://whereby.com/user/privacy).
   We may also obtain information from Zoominfo about your job title to 
   determine if we should contact you to discuss your employer's account 
@@ -316,7 +316,7 @@ criteria:
 2. Information about you used for product & marketing communication
    will be retained until you withdraw your consent or opt-out, depending
    on if the processing is based on consent or our legitimate interest. You
-   can control your permissions through [Privacy
+   can change permissions through [Privacy
 settings](https://whereby.com/user/privacy).
 3. The period of retention of usage information will be determined
    based on the need for historical data to determine statistical
