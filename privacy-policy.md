@@ -18,7 +18,7 @@ Business organization number NO 918470573
 ## Introduction
 
 This policy describes what information we collect when you use
-Whereby’s sites, services, mobile applications, products, and
+Whereby’s websites, services, mobile applications, products, and
 content (“Services”). It also provides information about how we store,
 transfer, use, and delete that information, and what choices you have
 with respect to the information.
@@ -39,25 +39,25 @@ and that the content is not violating other users’ privacy.
 
 ## How we collect, process and store information
 
-We in Whereby are committed to safeguarding the privacy of our
+Whereby is committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
 need additional features on top of the FREE version, and does not rely
-on widespread collection of general user data. When you use our service,
+on widespread collection of general user data. When you use our Services,
 we will only collect and process information that we need to deliver the
-service to you, and to continue to maintain and develop the service.
+Services to you, and to continue to maintain and develop the Services.
 
 Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
-that require your consent, we will actively ask you for consent before
+that require your consent, we will obtain your consent before
 collecting any data. You can give and revoke your consents at any time
-in your Settings page in https://whereby.com.
+in your [Settings page](https://whereby.com/user/privacy).
 
 The following is a list of data we collect, process or store, with the
 purpose and legal ground listed for each item or group of items having
 the same purpose and legal ground:
 
-* **User account information.** Users that choose to register in
-  Whereby, will have to provide a valid email address or phone
+* **User account information.** Users that choose to register for
+  Whereby will have to provide a valid email address or phone
   number. The user can also choose to enter a display name and/or add
   a profile picture that will be used to represent them in
   conversations. If you as a user choose to sign up with an external
@@ -65,16 +65,16 @@ the same purpose and legal ground:
   email address, name and profile image URL from this service. 
 
 * **Room information.** To create a room in Whereby, you as a user
-  will have to select a room name. This name will be publicly visible,
+  will have to select a room name. This name will be publicly visible
   and will be used by other users accessing meetings in that room. You
   as a user is responsible for the content you enter into a room name,
   and the content has to be compliant with our guidelines for
   Prohibited Content in Terms of Services.
 > The information may be used for the purposes of operating our
-> website, providing our services, ensuring the security of our
-> website and services, maintaining back-ups of our databases and
-> communicating with you. This is required to deliver the Service to
-> you as user, by taking steps, at your request, to enter into and to
+> Websites, providing our Services, ensuring the security of our
+> Website and Services, maintaining back-ups of our databases and
+> communicating with you. This is required to deliver the Services to
+> you as a user, by taking steps, at your request, to enter into and to
 > fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
 > item b.
 
@@ -101,7 +101,7 @@ the same purpose and legal ground:
   timing, frequency and pattern of your service use. The source of the
   usage data is our server software and our analytics tracking system.
   * **Product Analytics data.** Whereby logs activities by you and
-    other users when the users interact with our websites or apps,
+    other users when the users interact with our Websites or apps,
     when a page or a room is visited or where there is a conversation.
     We will never record the content in conversations.
   * **Technical log data.** Like most digital services, our servers
@@ -126,9 +126,9 @@ the same purpose and legal ground:
     process provided by your device.
 > The legal basis for this processing is in part our legitimate interests
 > cf. GDPR art. 6 (1) item f, namely using this data for the purpose
-> of ensuring the proper administration of our website and business,
-> analyzing the use of the website and services, monitoring and
-> improving our website and services, improving the user experience,
+> of ensuring the proper administration of our Websites and business,
+> analyzing the use of the Websites and Services, monitoring and
+> improving our Websites and Services, improving the user experience,
 > detecting and correcting fault/errors, and preventing abuse. When necessary
 > to assist you with your support inquiries, we may also process the data on
 > the basis that it is necessary to performing the contract we entered into
@@ -141,17 +141,21 @@ the same purpose and legal ground:
 
 * **Customer Support Information.** We may process information that
   you send to us, should you choose to submit a ticket to our support
-  email.  If you contact us, we may use your Account, Room,
-  Transaction or Usage Information to respond.
+  email.  If you contact us, we may use your user account, room,
+  transaction or usage Information to respond.
 > Processing this information is required for performing the
 > contract we entered into with you, at your request (our Terms of
 > Service), cf. GDPR art. 6(1) item b, as well as our legitimate interest
-> of handling your requests cf. GDPR art. 6 (1) item f.
+> of handling your requests cf. GDPR art. 6 (1) item f. Processing the
+> information you submit and our responses are also necessary to help
+> our customer support staff give each other feedback and learn, which
+> constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
 
 * **Product & Marketing communication.** We may process information
   that you provide to us for the purpose of contacting you by email, 
   by phone or through professional social media channels. You can 
-  control your premissions by going to “Settings > Privacy > Permissions”.
+  control your premissions by going to [Privacy
+settings](https://whereby.com/user/privacy).
   We may also obtain information from Zoominfo about your job title to 
   determine if we should contact you to discuss your employer's account 
   with Whereby. You can exercise your right to see what data Zoominfo
@@ -187,10 +191,10 @@ YouTube, Trello and others) in rooms where these have been enabled. We may
 store data from use of integrations in a local browser storage, and process
 this to enrich the user experience. This data can be deleted with the
 delete option in the integration settings or by deleting it from the cache
-of your browser. When using an integration, metadada like title, thumbnail,
+of your browser. When using an integration, metadata like title, thumbnail,
 dates and share permissions about content selected may be fetched and
 displayed in the web page. We may store non-personal/non-restricted
-information (eg. content id and access date) in a local browser storage
+information (e.g. content id and access date) in a local browser storage
 to display lists of recent opened integrations. Restricted metadata
 is always stored by the services themselves and requires explicit consent
 given by the facing user to fetch it. The implementation is in compliance with
@@ -214,12 +218,12 @@ recording in compliance with regulations after downloading it from
 Whereby.
 
 ### Security
-In the FREE version of the Service, users can use “Small meeting” mode
+In the FREE version of the Services, users can use “Small meeting” mode
 (up to 4 participants). In “Small meeting” mode, communication between
 participants are primarily sent through peer-to-peer connections,
 where audio and video streams are sent directly between participants
 and do not pass through any of our servers. Video and audio
-transmitted in the Service is then sent directly between the
+transmitted in the Services is then sent directly between the
 participants in a room and is encrypted (DTLS-SRTP) with
 client-generated encryption keys. In cases where a user is behind a
 strict firewall or NAT, video and audio need to be relayed via a TURN
@@ -241,12 +245,12 @@ of the video/audio streams.
 
 ## Providing your personal data to others
 
-We may share information about with third parties in some
+We may share your personal data with third parties in some
 circumstances, including: (1) with your consent; (2) to a service
 provider or partner who meets our data protection standards; (3) with
 academic or non-profit researchers, with aggregation, anonymization;
 (4) when we have a good faith belief it is required by law, such as
-pursuant to a subpoena or other legal process; (5) to protect the
+pursuant to a subpoena or other legal process; or to (5) to protect the
 vital interest of others, when we have reason to believe that doing so
 will prevent harm to someone or illegal activities.
 
@@ -254,7 +258,7 @@ Our categories of service providers and partners are:
 * Hosting/infrastructure/storage providers
 * Payment processors
 * Analysis tools providers
-* Customer Support tools providers
+* Customer support tools providers
 * Marketing and email providers
 * Recruiting tools providers
 * Internal communication tools providers
@@ -274,22 +278,21 @@ privacy policy, we will notify you in advance and give you the option to delete 
 
 In some circumstances your personal data may be transferred to
 countries outside the European Economic Area (EEA). You acknowledge
-that personal data that you submit for publication through our website
-or services may be available, via the internet, around the world. We
+that personal data that you submit for publication through our Websites
+or Services may be available, via the internet, around the world. We
 cannot prevent the use (or misuse) of such personal data by
 others. For information about what types of content you as a user is
 responsible, see this
 [Terms of Service](https://whereby.com/information/tos/).
 
 We and our other group companies have offices and facilities in
-Norway, Sweden, United States. The hosting facilities for Account
+Norway, Sweden, United States. The hosting facilities for account
 information stored by Whereby are situated in Ireland. The hosting
-facilities for Usage information are situated in Ireland and the
+facilities for usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
 appropriate safeguards, namely the use of standard data protection
 clauses adopted or approved by the European Commission, a copy of
-which can be obtained from
-https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en.
+which can be obtained from the [European Commission website](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
 ## Retaining and deleting personal data
 
@@ -305,11 +308,11 @@ In some cases it is not possible for us to specify in advance the
 periods for which your personal data will be retained. In such cases,
 we will determine the period of retention based on the following
 criteria:
-1. Account information, Room information will be retained until you
+1. Account information, room information will be retained until you
    decide to delete your account or delete a room in Whereby.
-2. Information about you used for Product & Marketing communication
-   will be retained as long as you have given us consent to use this
-   information.
+2. Information about you used for product & marketing communication
+   will be retained until you withdraw your consent or opt-out. You
+   can control your permissions 
 3. The period of retention of usage information will be determined
    based on the need for historical data to determine statistical
    validity and relevance for product decisions and technical
@@ -319,6 +322,14 @@ Regardless of the provisions above, we may retain your personal data
 where such retention is necessary for compliance with a legal
 obligation to which we are subject, or in order to protect your vital
 interests or the vital interests of another natural person.
+
+## Children
+
+Whereby is only for people 16 years old and over. By using Whereby, 
+you affirm that you are over 16. If we learn that someone under 16 is using
+Whereby, we’ll terminate their account. For use in educational settings or
+use of our Embedded product in your own service, contact us. We encourage
+parents with concerns to contact us at legal@whereby.com.
 
 ## Changes to this policy
 
@@ -339,7 +350,7 @@ your personal information, or delete your account in
 account, your information and content will be unrecoverable after that
 time. You may instruct us at any time not to process your personal
 information for marketing purposes, by adjusting your [Privacy
-settings](https://whereby.com/user/privacy/consents)). We may withhold
+settings](https://whereby.com/user/privacy)). We may withhold
 personal information that you request to the extent permitted by law.
 
 ## Your rights
@@ -354,8 +365,8 @@ data protection law:
 * The right to data portability.
 
 If you have provided your consent to your processing of personal data,
-you may also withdraw your consent at any time, on our Settings >
-Consent page.
+you may also withdraw your consent at any time, on our [Privacy
+settings](https://whereby.com/user/privacy).
 
 The rights are not absolute, and you may read more about your rights
 in the EU general data protection regulation Chapter III, or at
