@@ -160,8 +160,9 @@ settings](https://whereby.com/user/privacy).
   determine if we should contact you to discuss your employer's account 
   with Whereby. You can exercise your right to see what data Zoominfo
   has collected about you by going to https://www.zoominfo.com/update/access
-> The legal basis for processing personal data for the purposes of
-> direct marketing is our legitimate interest, cf. GDPR art.6 (1) item f.
+> The legal basis for processing personal data for the purposes providing
+> you with product and marketing communication is our legitimate 
+> interest, cf. GDPR art.6 (1) item f.
 
 * **Service and transactional notifications.** Sometimes we’ll send
   you emails about your account, service changes or new policies. You
