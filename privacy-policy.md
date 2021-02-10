@@ -289,7 +289,7 @@ responsible, see this
 [Terms of Service](https://whereby.com/information/tos/).
 
 We and our other group companies have offices and facilities in
-Norway, Sweden, United States. The hosting facilities for account
+Norway, United Kingdom and United States. The hosting facilities for account
 information stored by Whereby are situated in Ireland. The hosting
 facilities for usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
