@@ -153,33 +153,20 @@ the same purpose and legal ground:
 > our customer support staff give each other feedback and learn, which
 > constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
 
-* **Product & Marketing communication.** We may obtain professional 
+* **Public professional information.** We may obtain professional 
   information about you if you have a linkedIn profile. We use this
   information to assess if we should contact you regarding your company's
-  Whereby account. If you are an appropriate point of contact for your 
-  company, we may seek additional contact information through Zoominfo. 
-  Zoominfo may provide access to your contact information if you have made
-  it publically available. Both Zoominfo and LinkedIn allows you to know 
-  what data they have collected about you; you can find it 
-  [here](https://www.zoominfo.com/update/access) for Zoominfo
+  Whereby account or encourage you to apply for a job at Whereby. If you
+  are an appropriate point of contact for your company, or if we wish to
+  ask you to apply for a job, we may seek additional contact information through
+  LinkedIn and Zoominfo. Zoominfo and LinkedIn may provide access to your contact 
+  information if you have made it publically available. Both Zoominfo 
+  and LinkedIn allows you to know what data they have collected about you;
+  you can find it [here](https://www.zoominfo.com/update/access) for Zoominfo
   and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn.
-  You can always change our permissions to contact you by changing your
-  [Privacy settings](https://whereby.com/user/privacy).
-> The legal basis for processing personal data for the purposes of providing
-> you with product and marketing communication is our legitimate 
-> interest, cf. GDPR art.6 (1) item f. 
-
-* **Service and transactional notifications.** Sometimes we’ll send
-  you emails about your account, service changes or new policies. You
-  can’t opt out of this type of “service or transactional” emails
-  (unless you delete your account) as they are necessary information
-  for the Services.
-> The legal grounds for processing this information is that it is
-> required for performing our commitment about communicating changes
-> in plans and pricing to you in the contract we entered into with
-> you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item
-> b, and our legitimate interest of communicating important
-> information about your account to you, cf. GDPR art. 6 (1) item f.
+> The legal basis for processing professional information for the purposes
+> of initiating, maintaining or building a customer relatioship is our
+> legitimate interest, cf. GDPR art.6 (1) item f. 
 
 * **Correspondence information.** We may process information that you
   choose to share with us if you participate in a focus group,
@@ -212,6 +199,45 @@ the services privacy policies: [Google Privacy Policy](http://www.google.com/pol
 > you as user, by taking steps, at your request, to enter into and to
 > fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
 > item b.
+
+### How and when we reach out to you
+  You control what information we send to you by changing your 
+  [Privacy settings](https://whereby.com/user/privacy). You cannot opt out
+  of receing service and transactional notifications (unless you delete 
+  your account) as they are necessary information for the Services
+
+* **Newsletters.** We may process information that
+  you provide to us for the purpose of sending you newsletters.
+> The legal basis for this processing is our legitimate interest cf. GDPR
+> art. 6 (1) item f, namely our interest in promoting our service.
+
+* **Personalised tips.** We may process information that you provide to us
+  as well as usage information for the purpose of sending you personalised tips
+  on how to get more out of Whereby.
+> The legal basis for this processing is consent cf. GDPR art. 6 (1) item a.
+
+* **User research.** We may send you user research surveys and invitations
+  to participate in user research activities.
+> The legal basis for processing personal data for the purpose of 
+> understanding how we can improve Whereby is our legitimate interest
+> cf. GDPR art. 6 (1) item f.
+
+* **Marketing communication in channels outside Whereby.** We may process 
+  information that you provide to us as well as public professional 
+  information for the purpose of sending you marketing communication for
+  instance through advertising networks, e-mail or phone calls.
+> The legal basis for this processing is our legitimate interest cf. GDPR 
+> art. 6 (1) item f, namely our interest in selling our services and
+> promoting our brand. 
+
+* **Service and transactional notifications.** Sometimes we’ll send
+  you emails about your account, service changes or new policies.
+> The legal grounds for processing this information is that it is
+> required for performing our commitment about communicating changes
+> in plans and pricing to you in the contract we entered into with
+> you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item
+> b, and our legitimate interest of communicating important
+> information about your account to you, cf. GDPR art. 6 (1) item f.
 
 ## How we process media (audio/video)
 
