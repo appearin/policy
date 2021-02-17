@@ -5,9 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-This policy is effective for all users who join Whereby after 11
-February, 2021. For existing users, the policy comes into effect
-from 18 February, 2021.
+This policy is effective from 1 March, 2021.
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
