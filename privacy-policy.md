@@ -343,8 +343,7 @@ criteria:
 1. Account information, room information will be retained until you
    decide to delete your account or delete a room in Whereby.
 2. Information about you used for product & marketing communication
-   will be retained until you withdraw your consent or opt-out, depending
-   on if the processing is based on consent or our legitimate interest. You
+   will be retained until you opt-out or withdraw your opt-in. You
    can change permissions through [Privacy
 settings](https://whereby.com/user/privacy).
 3. The period of retention of usage information will be determined
