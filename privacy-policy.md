@@ -11,7 +11,7 @@ This Privacy Statement (the "Privacy Statement") is provided by:
 
 Whereby AS ("Whereby"/"we")
 
-Gate 1 no. 101, 6700 Måløy, Norway
+Gate 1 no. 107, 6700 Måløy, Norway
 
 Business organization number NO 918470573
 
