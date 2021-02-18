@@ -154,7 +154,7 @@ the same purpose and legal ground:
 > constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
 
 * **Public professional information.** We may obtain professional 
-  information about you if you have a linkedIn profile. We use this
+  information about you if you have a LinkedIn profile. We use this
   information to assess if we should contact you regarding your company's
   Whereby account or encourage you to apply for a job at Whereby. If you
   are an appropriate point of contact for your company, or if we wish to
@@ -204,12 +204,12 @@ the services privacy policies: [Google Privacy Policy](http://www.google.com/pol
   You control what information we send to you by changing your 
   [Privacy settings](https://whereby.com/user/privacy). You cannot opt out
   of receing service and transactional notifications (unless you delete 
-  your account) as they are necessary information for the Services
+  your account) as they are necessary information for the Services.
 
 * **Newsletters.** We may process information that
   you provide to us for the purpose of sending you newsletters.
 > The legal basis for this processing is our legitimate interest cf. GDPR
-> art. 6 (1) item f, namely our interest in promoting our service.
+> art. 6 (1) item f, namely our interest in promoting our Service.
 
 * **Personalised tips.** We may process information that you provide to us
   as well as usage information for the purpose of sending you personalised tips
