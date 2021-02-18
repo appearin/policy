@@ -41,7 +41,7 @@ and that the content is not violating other users’ privacy.
 
 Whereby is committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
-need additional features on top of the FREE version, and does not rely
+need additional features on top of the Free version, and does not rely
 on widespread collection of general user data. When you use our Services,
 we will only collect and process information that we need to deliver the
 Services to you, and to continue to maintain and develop the Services.
@@ -250,7 +250,7 @@ recording in compliance with regulations after downloading it from
 Whereby.
 
 ### Security
-In the FREE version of the Services, users can use “Small meeting” mode
+In the Free version of the Services, users can use “Small meeting” mode
 (up to 4 participants). In “Small meeting” mode, communication between
 participants are primarily sent through peer-to-peer connections,
 where audio and video streams are sent directly between participants
