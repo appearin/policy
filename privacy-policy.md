@@ -362,7 +362,8 @@ interests or the vital interests of another natural person.
 Whereby is only for people 16 years old and over. By using Whereby, 
 you affirm that you are over 16. If we learn that someone under 16 is using
 Whereby, we’ll terminate their account. For use in educational settings or
-use of our Embedded product in your own service, contact us. We encourage
+use of our Embedded product in your own service, 
+[contact us](https://whereby.com/information/embedded/). We encourage
 parents with concerns to contact us at legal@whereby.com.
 
 ## Changes to this policy
