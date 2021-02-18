@@ -223,7 +223,7 @@ the services privacy policies: [Google Privacy Policy](http://www.google.com/pol
 > cf. GDPR art. 6 (1) item f.
 
 * **Marketing communication in channels outside Whereby.** We may process 
-  information that you provide to us as well as public professional 
+  your e-mail, phone-number and other public professional 
   information for the purpose of sending you marketing communication for
   instance through advertising networks, e-mail or phone calls.
 > The legal basis for this processing is our legitimate interest cf. GDPR 
