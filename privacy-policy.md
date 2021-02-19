@@ -322,8 +322,8 @@ Norway, United Kingdom and United States. The hosting facilities for account
 information stored by Whereby are situated in Ireland. The hosting
 facilities for usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
-appropriate safeguards, namely the use of standard data protection
-clauses adopted or approved by the European Commission, a copy of
+appropriate safeguards, namely the use of standard contractual
+clauses issued by the European Commission, a copy of
 which can be obtained from the [European Commission website](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
 ## Retaining and deleting personal data
