@@ -5,7 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-This policy is effective from 1 March, 2021.
+This policy is effective from 2 April, 2021.
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -27,7 +27,7 @@ This policy applies to Whereby’s online video meeting tool,
 including the website and mobile applications, and other Whereby
 websites (collectively “the Websites”), as well as other interaction
 (e.g. customer support conversations, user surveys and interviews
-etc.) you may have with Whereby.
+etc.) you may have with Whereby as a meeting participant, user or customer. 
 
 This policy applies where we are acting as a Data Controller with
 respect to the personal data of users of our Services; in other words,
@@ -42,9 +42,11 @@ and that the content is not violating other users’ privacy.
 Whereby is committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
 need additional features on top of the Free version, and does not rely
-on widespread collection of general user data. When you use our Services,
-we will only collect and process information that we need to deliver the
-Services to you, and to continue to maintain and develop the Services.
+on widespread collection of general user data. We will only collect 
+and process information that we need to deliver the
+Services to you, and to continue to maintain and develop the Services,
+and public professional information that we need to contact you
+regarding your company's Whereby account.
 
 Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
@@ -76,21 +78,36 @@ the same purpose and legal ground:
 > communicating with you. This is required to deliver the Services to
 > you as a user, by taking steps, at your request, to enter into and to
 > fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
-> item b.
+> item b. We may also process your room name in pursuit of our
+> legitimate interest in sending you marketing messages, cf. GDPR 
+> art. 6 (1) item f.
 
-* **Transaction information.** Customers that choose to purchase a
-  paid version of the Services provide Whereby (and our payment
+* **Transaction and aggregated consumption information.** When signing
+  up to use the Service you choose which version of Whereby you wish
+  to sign up (your 'plan'). Customers that choose to purchase a
+  paid plan provide Whereby (and our payment
   processors) with billing details such as credit card information,
   billing email, banking information, location at the time of
-  transaction and/or a billing address.
-> The transaction data will be processed for the purpose of supplying
+  transaction and/or a billing address. If the Customer is on a
+  plan which allows a certain level of consumption of
+  different features, i.e. certain quotas, it will be necessary to
+  keep track of consumption.
+> The choice of plan and transaction data will be
+> processed for the purpose of supplying
 > the purchased services and keeping proper records of those
-> transactions. This data will be used for the purpose of delivering
-> the Services to you. Processing this information is required for
+> transactions. Processing this information is required for
 > fulfilling the contract we entered into with you, at your request
 > (our Terms of Service) cf. GDPR art. 6 (1) item b. Additionally,
-> this information needs to be retained in order to comply with
+> transaction data needs to be retained in order to comply with
 > accounting and tax regulation cf. GDPR art. 6 (1) item c.
+> Finally, we will process the Customer's choice of plan as 
+> well as aggregated consumption information necessary to 
+> send messages to the Customer concerning the Customer's quota consumption.
+> We will also make this information easily available to the
+> Customer on our website. We do this in pusuit of our Customer's
+> interest in managing quota consumption, avoiding interruptions
+> during meeting, and being able to choose a plan appropriate 
+> to the Customer's needs, cf. GDPR art. 5 (1) item f.
 
 * **Usage information.** When you as a user interact with the
   Services, we collect and process metadata to provide additional
@@ -133,7 +150,9 @@ the same purpose and legal ground:
 > to assist you with your support inquiries, we may also process the data on
 > the basis that it is necessary to performing the contract we entered into
 > with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b.
-> When we process the data for security purposes, we do so also on the basis 
+> For instance, if you are on a version of the Service with assigned quotas,
+> we will use usage data to calculate aggregated consumption information,
+> cf. GDPR art. 6 (1) item b. When we process the data for security purposes, we do so also on the basis 
 > of our legal obligation, cf. GDPR art. 6(1) item c, in particular our 
 > obligation to keep personal data secure. If you consent, cf. GDPR art. 6 (1)
 > item a, to receiving tips on how to get more out of Whereby, we will process
@@ -156,17 +175,16 @@ the same purpose and legal ground:
 * **Public professional information.** We may obtain professional 
   information about you if you have a LinkedIn profile. We use this
   information to assess if we should contact you regarding your company's
-  Whereby account or encourage you to apply for a job at Whereby. If you
-  are an appropriate point of contact for your company, or if we wish to
-  ask you to apply for a job, we may seek additional contact information through
+  Whereby account. If you
+  are an appropriate point of contact for your company we may seek additional contact information through
   LinkedIn and Zoominfo. Zoominfo and LinkedIn may provide access to your contact 
   information if you have made it publically available. Both Zoominfo 
   and LinkedIn allows you to know what data they have collected about you;
   you can find it [here](https://www.zoominfo.com/update/access) for Zoominfo
   and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn.
 > The legal basis for processing professional information for the purposes
-> of initiating, maintaining or building a customer relatioship is our
-> legitimate interest, cf. GDPR art.6 (1) item f. 
+> of initiating, maintaining or building a customer relatioship, or for purposes
+> encouraging you to apply for a job, is our legitimate interest, cf. GDPR art.6 (1) item f. 
 
 * **Correspondence information.** We may process information that you
   choose to share with us if you participate in a focus group,
@@ -204,7 +222,8 @@ the services privacy policies: [Google Privacy Policy](http://www.google.com/pol
   You control what information we send to you by changing your 
   [Privacy settings](https://whereby.com/user/privacy). You cannot opt out
   of receing service and transactional notifications (unless you delete 
-  your account) as they are necessary information for the Services.
+  your account) as they are necessary information for the Services. If you
+  are on a plan with assigned 
 
 * **Newsletters.** We may process information that
   you provide to us for the purpose of sending you newsletters.
