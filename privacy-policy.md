@@ -46,8 +46,8 @@ on widespread collection of general user data. We will only collect
 and process 1) information that we need to deliver the
 Services to you, and to continue to maintain and develop the Services,
 2) public professional information that we need to contact you
-regarding your company's Whereby account, and 3) information you provide
-to us, at your own initiative, to obtain access to marketing content.
+regarding your company's Whereby account, and 3) information you submit,
+at your own initiative, to obtain access to marketing content.
 
 Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
