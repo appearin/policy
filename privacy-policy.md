@@ -43,10 +43,11 @@ Whereby is committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
 need additional features on top of the Free version, and does not rely
 on widespread collection of general user data. We will only collect 
-and process information that we need to deliver the
+and process 1) information that we need to deliver the
 Services to you, and to continue to maintain and develop the Services,
-and public professional information that we need to contact you
-regarding your company's Whereby account.
+2) public professional information that we need to contact you
+regarding your company's Whereby account, and 3) information you provide
+to us, at your own initiative, to obtain access to marketing content.
 
 Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
@@ -189,13 +190,13 @@ the same purpose and legal ground:
 
 * **Correspondence information.** We may process information that you
   choose to share with us if you participate in a focus group,
-  contest, activity or event, apply for a job, interact with our
-  social media accounts or otherwise communicate with Whereby
+  contest, activity or event, provide feedback, interact with our
+  social media accounts or otherwise communicate with Whereby.
 > The correspondence data may be processed for the purposes of
 > communicating with you and record-keeping. The legal basis for this
 > processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely
 > the proper administration of our website and business and
-> communications with users.
+> communications with users, including communication for marketing purposes.
 
 * **Integrations with external services** You as a participant in a meeting
 may choose to open one of the integrations we provide (Google Drive,
@@ -312,8 +313,14 @@ Our categories of service providers and partners are:
 * Analysis tools providers
 * Customer support tools providers
 * Marketing and email providers
+* Co-marketing content partners
 * Recruiting tools providers
 * Internal communication tools providers
+
+We only share data with co-marketing content partners when you, at your
+own initiative, fill a form to obtain the content. We will make sure it
+is clear to you that we have developed the content with our partner and
+that the partner will also obtain relevant information.
 
 ### Business Transfers
 We may disclose your personal data to any member of our group of
