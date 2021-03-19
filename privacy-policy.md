@@ -104,9 +104,10 @@ the same purpose and legal ground:
 > well as aggregated consumption information necessary to 
 > send messages to the Customer concerning the Customer's quota consumption.
 > We will also make this information easily available to the
-> Customer on our website. We do this in pusuit of our Customer's
-> interest in managing quota consumption, avoiding interruptions
-> during meeting, and being able to choose a plan appropriate 
+> Customer on our website. We do this in pursuit of our Customer's
+> interest in managing quota consumption and the shared interest of
+> Whereby and the Customer in
+> enabling the Customer to choose a plan appropriate 
 > to the Customer's needs, cf. GDPR art. 5 (1) item f.
 
 * **Usage information.** When you as a user interact with the
