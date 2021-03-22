@@ -75,7 +75,7 @@ the same purpose and legal ground:
   Prohibited Content in Terms of Services.
 > The information will be used for the purposes of operating our
 > Websites, providing our Services, ensuring the security of our
-> Website and Services, maintaining back-ups of our databases and
+> Website and Services, maintaining back-ups of our databases, enforcing our terms of service, and
 > communicating with you. This is required to deliver the Services to
 > you as a user, by taking steps, at your request, to enter into and to
 > fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
@@ -152,7 +152,7 @@ the same purpose and legal ground:
 > to assist you with your support inquiries, we may also process the data on
 > the basis that it is necessary to performing the contract we entered into
 > with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b.
-> For instance, if you are on a version of the Service with assigned quotas,
+> If you are on a version of the Service with assigned quotas,
 > we will use usage data to calculate aggregated consumption information,
 > cf. GDPR art. 6 (1) item b. When we process the data for security purposes, we do so also on the basis 
 > of our legal obligation, cf. GDPR art. 6(1) item c, in particular our 
@@ -224,8 +224,7 @@ the services privacy policies: [Google Privacy Policy](http://www.google.com/pol
   You control what information we send to you by changing your 
   [Privacy settings](https://whereby.com/user/privacy). You cannot opt out
   of receing service and transactional notifications (unless you delete 
-  your account) as they are necessary information for the Services. If you
-  are on a plan with assigned 
+  your account) as they are necessary information for the Services.
 
 * **Newsletters.** We may process information that
   you provide to us for the purpose of sending you newsletters.
