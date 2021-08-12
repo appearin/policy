@@ -271,10 +271,11 @@ Norway, United Kingdom and United States. The hosting facilities for Account
 information stored by Whereby are situated in Ireland. The hosting
 facilities for Usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
-appropriate safeguards, namely the use of standard data protection
-clauses adopted or approved by the European Commission, a copy of
+appropriate safeguards, namely the use of Standard Contractual Clause (SCC) adopted or approved by the European Commission, a copy of
 which can be obtained from
 https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en. 
+
+Please note that, for new data transfers, we will continue to rely on the old SCCs until September 27,2021. For existing transfer, we will continue to rely on SCCs until December 27, 2022, by which time all data transfers relying on the old SCCs will be moved over to the new SCCs adopted and approved by the European Commission, a copy of which can be obtained from https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en
 
 ## Retaining and deleting personal data
 
@@ -370,8 +371,8 @@ authority.
 
 ## Data protection officer
 
-Our data protection officer's contact details are: Jonas Lybech Jensen,
-privacy@whereby.com
+Our data protection officer's contact details are: Ajanta Hossain Moushumi,
+DPO@whereby.com
 
 To learn more, visit the
 [Privacy section in our FAQ](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security).
