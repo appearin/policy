@@ -377,7 +377,7 @@ authority.
 ## Data protection officer
 
 Our data protection officer's contact details are: Ajanta Hossain Moushumi,
-DPO@whereby.com
+dpo@whereby.com
 
 To learn more, visit the
 [Privacy section in our FAQ](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security).
