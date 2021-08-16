@@ -276,7 +276,11 @@ appropriate safeguards, namely the use of Standard Contractual Clause
 which can be obtained from
 https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en. 
 
-Please note that, for new data transfers, we will continue to rely on the old SCCs until September 27,2021. For existing transfer, we will continue to rely on SCCs until December 27, 2022, by which time all data transfers relying on the old SCCs will be moved over to the new SCCs adopted and approved by the European Commission, a copy of which can be obtained from https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en
+Please note that, for new data transfers, we will continue to rely on
+the old SCCs until September 27,2021. For existing transfer, we will
+continue to rely on SCCs until December 27, 2022, by which time all data
+transfers relying on the old SCCs will be moved over to the [new SCCs
+adopted and approved by the European Commission](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en)
 
 ## Retaining and deleting personal data
 
